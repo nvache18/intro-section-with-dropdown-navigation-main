@@ -1,0 +1,17 @@
+.header1 {
+    display: flex;
+    padding: 10px;
+}
+
+.header2 {
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-left: 50px;
+}
+
+img {
+    width: 20px;
+    height: 20px;
+}
